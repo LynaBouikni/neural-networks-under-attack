@@ -96,9 +96,6 @@ This project investigates the robustness of Convolutional Neural Networks (CNNs)
 
 ## 🧪 Experiments & Code
 
-All source code is available at:  
-🔗 [GitHub Repository](https://github.com/Master-IASD/assignment3-2023-neural-avengers)
-
 Main components:
 - `cnn_baseline.py`: Base CNN models (Model A & B)
 - `attacks.py`: FGSM, PGD, DeepFool implementations
