@@ -131,8 +131,8 @@ Main components:
 If you'd like to connect or ask questions:
 
 **Lyna Bouikni**  
-📧 lyna@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 lynabouiknia@.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lyna-b-231a41126/))
 
 ---
 
