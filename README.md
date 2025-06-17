@@ -34,7 +34,7 @@ This project investigates the robustness of Convolutional Neural Networks (CNNs)
 
 ## 📁 Repository Structure
 
-
+```bash
 ├── models/ # Saved model architectures and weights
 ├── Stage1.ipynb # Baseline CNN training and FGSM/PGD attacks
 ├── Stage2.ipynb # Adversarial training, DeepFool, Randomized networks
@@ -45,3 +45,4 @@ This project investigates the robustness of Convolutional Neural Networks (CNNs)
 ├── report.pdf # Final report
 ├── .gitignore
 └── README.md
+```
