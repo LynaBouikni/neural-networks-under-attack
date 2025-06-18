@@ -107,11 +107,11 @@ Stage1.ipynb: Baseline training + FGSM/PGD attacks
 Stage2.ipynb: Advanced defense & DeepFool testing
 ```
 
-🖼️ Visual Example
+## 🖼️ Visual Example
 
 Adversarial examples crafted using DeepFool: imperceptible to the human eye, but fooling the network.
 
-🗝️ Key Takeaways
+## 🗝️ Key Takeaways
 Small perturbations can have major effects on standard CNNs.
 
 Adversarial training increases resilience but may reduce accuracy on clean inputs.
@@ -120,7 +120,7 @@ Randomized inference introduces unpredictability, making attacks harder.
 
 DeepFool is especially dangerous due to its subtlety.
 
-🧭 Future Directions
+## 🧭 Future Directions
 Try ensemble models or Bayesian uncertainty modeling.
 
 Implement SHAP/LIME to visualize decision boundaries under attack.
@@ -129,12 +129,12 @@ Investigate black-box attacks (transferability, query-based).
 
 Build a real-time adversarial detection system.
 
-📬 Contact
+## 📬 Contact
 Lyna Bouikni
 📧 lynabouiknia@.com
 🔗 LinkedIn
 
-📚 References
+## 📚 References
 Goodfellow et al. (2014). Explaining and Harnessing Adversarial Examples
 
 Moosavi-Dezfooli et al. (2016). DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
