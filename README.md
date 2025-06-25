@@ -36,12 +36,12 @@ This project investigates the robustness of Convolutional Neural Networks (CNNs)
 
 ```bash
 ├── models/ # Saved model architectures and weights
-├── Stage1.ipynb # Baseline CNN training and FGSM/PGD attacks
-├── Stage2.ipynb # Adversarial training, DeepFool, Randomized networks
-├── model.py # CNN architecture definition
+    ├── Stage1.ipynb # Baseline CNN training and FGSM/PGD attacks
+    ├── Stage2.ipynb # Adversarial training, DeepFool, Randomized networks
+    ├── model.py # CNN architecture definition
 ├── test_project.py # Testing entry point
 ├── requirements.txt # Required Python packages
-├── Slides_Data_Lab_3 (2).pdf # Slide presentation
+├── Presentation.pdf # Slide presentation
 ├── report.pdf # Final report
 ├── .gitignore
 └── README.md
